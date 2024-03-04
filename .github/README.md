@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Zenaku10/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/Zenaku10/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/Zenaku10/AnonXMusic/network/members"> <img src="https://img.shields.io/github/forks/Zenaku10/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Zenaku10/AnonXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Forbidden2025/ZenakuXnMusic/stargazers"><img src="https://img.shields.io/github/stars/Forbidden2025/ZenakuXnMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Forbidden2025/ZenakuXnMusic/network/members"> <img src="https://img.shields.io/github/forks/Forbidden2025/ZenakuXnMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Forbidden2025/ZenakuXnMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/Zenaku10/AnonXMusic/commits/Zenaku10"> <img src="https://img.shields.io/github/last-commit/Zenaku10/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="Forbidden2025/ZenakuXnMusic/commits/Forbidden2025"> <img src="https://img.shields.io/github/last-commit/Forbidden2025/ZenakuXnMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Zenaku10/AnonXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/Forbidden2025/ZenakuXnMusic/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
