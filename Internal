@@ -1,4 +1,4 @@
-UPSTREAM_REPO=https://github.com/Zenaku10/AnonXMusic
+UPSTREAM_REPO=https://github.com/Forbidden2025/ZenakuXnMusic
 UPSTREAM_BRANCH=master
 AUTO_DOWNLOADS_CLEAR=True
 API_ID=24795599
@@ -10,5 +10,5 @@ DURATION_LIMIT=1200
 LOG_GROUP_ID=-1002020845157
 MUSIC_BOT_NAME=╰•★★ ʄơཞცıɖɖɛŋ ɱųʂıƈ ★★•╯
 STRING_SESSION=
-SUPPORT_CHANNEL=https://t.me/FoRBIDDen_FeeLinG20
-SUPPORT_GROUP=https://t.me/FoRBIDDen_FeeLinG10
+SUPPORT_CHANNEL=https://t.me/seriosvs_version20
+SUPPORT_GROUP=https://t.me/seriosvs_version10
